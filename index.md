@@ -3,3 +3,10 @@
 
 This is an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+#### This is part of a code
+```python
+a = 2
+b = 3
+print(a + b)
+```
