@@ -10,3 +10,8 @@ a = 2
 b = 3
 print(a + b)
 ```
+
+#### This is a checklist
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
